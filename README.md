@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @plmphuc17
+- 👀 I’m interested in developing exciting applications
+- 🌱 I’m currently learning Angular, React Native
